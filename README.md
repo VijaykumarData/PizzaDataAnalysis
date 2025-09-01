@@ -14,7 +14,7 @@ Product Performance: Best & worst performing pizzas by revenue & quantity.
 
 Category Insights: Sales contribution by pizza category & size.
 
-Time-Based Insights: Sales trends in the last 6 months.
+Time-Based Insights:  Fetch  last 6 months data.
 
 🚀 Impact:
 This SQL analysis empowers businesses to optimize product mix, identify customer preferences, and track sales trends, driving smarter data-backed decisions.
